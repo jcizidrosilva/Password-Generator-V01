@@ -11,3 +11,5 @@ Join me on my coding journey, and explore this Password Generator project to wit
 
 <br>
 <img src="./img/1.png" alt="bg">
+
+<h3><a href="#">Take a look at the initial release of our project.</a></h3>
